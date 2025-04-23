@@ -1,0 +1,13 @@
+Datasets/**
+mamba_env*/**
+lightning_logs/**
+__pycache__/**
+.ipynb_checkpoints/main-checkpoint.ipynb
+.aim/**
+.env
+.cometml-runs/**
+ml-runs/**
+mlruns/**
+tb_logs/**
+.neptune/**
+predictions_pngs/**
