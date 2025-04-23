@@ -13,11 +13,11 @@ The implementation uses a pre-trained VGG16 model from `torchvision` as the feat
 Below is sample output from the trained model on an image from the validation dataset.
 
 ```
-![](example_prediction.png)
+![](./example_prediction.png)
 ```
 
 ```
-![](example_prediction2.png)
+![](./example_prediction2.png)
 ```
 
 ---
